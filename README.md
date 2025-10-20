@@ -96,5 +96,3 @@ Passionate about combining **Data Structures** with **interactive web developmen
 
 
 
-Would you like me to make it more **formal (academic-style)** or **fun & engaging (GitHub project showcase style)**?
-I can tailor the tone before you upload.
