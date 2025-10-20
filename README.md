@@ -1,12 +1,12 @@
-Here’s a clean and professional **README.md** file for your GitHub repository 👇
 
----
+
+
 
 # 🎮 Pattern Memory Game
 
 *A simple web-based memory game built using HTML, CSS, and JavaScript (with Queue Data Structure).*
 
----
+
 
 ## 🧠 Overview
 
@@ -16,7 +16,7 @@ The sequence grows with every level — testing how long you can keep up!
 
 This project demonstrates how **data structures (Queue - FIFO)** can be used in a fun and practical way to handle ordered sequences in games.
 
----
+
 
 ## ⚙️ Features
 
@@ -27,7 +27,7 @@ This project demonstrates how **data structures (Queue - FIFO)** can be used in 
 ✅ Beginner-friendly JavaScript logic
 ✅ Responsive layout using CSS Grid
 
----
+
 
 ## 🧩 Data Structure Used: Queue (FIFO)
 
@@ -38,7 +38,7 @@ The **Queue** is the backbone of the game’s logic.
 * Each color is checked in order (First-In-First-Out).
   If any mismatch occurs — the game ends.
 
----
+
 
 ## 🕹️ How to Play
 
@@ -48,7 +48,7 @@ The **Queue** is the backbone of the game’s logic.
 4. If you get it right, move to the next level.
 5. A single mistake ends the game — test your memory again!
 
----
+
 
 ## 🧱 Tech Stack
 
@@ -56,18 +56,18 @@ The **Queue** is the backbone of the game’s logic.
 * **CSS3** – Styling and layout (responsive design)
 * **JavaScript (Vanilla)** – Game logic and queue implementation
 
----
+
 
 ## 📁 Project Structure
 
-```
+
 📂 Pattern-Memory-Game
 ├── index.html         # Main game interface
 ├── pattern.css        # Styling for buttons, layout, and theme
 └── pattern.js         # Core game logic (Queue-based)
-```
 
----
+
+
 
 ## 📸 Preview
 
@@ -76,7 +76,7 @@ Example layout:
 📊 Level display and real-time status messages
 🚀 Start button to begin the challenge
 
----
+
 
 ## 🚀 Future Enhancements
 
@@ -85,7 +85,7 @@ Example layout:
 * Add **difficulty modes** (speed variations)
 * Support for **mobile touch interactions**
 
----
+
 
 ## 👨‍💻 Author
 
